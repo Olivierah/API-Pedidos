@@ -8,7 +8,11 @@
 
 ## Diagrama do projeto 
 
-![Preview-Screens](Diagram/api_diagram.png)
+<p align="center">
+  <a href="#">
+    <img align="center" width="450" src="Diagram/api_diagram.png" />
+  </a>
+</p>
 
 ## Why?
 
