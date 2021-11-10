@@ -2,9 +2,9 @@
 
 ### Status: Em construção
 
-**Sobre o projeto**
+## Sobre o projeto
 
-### API construída em .NET 5 para um sistema de pedidos
+**API construída em .NET 5 para um sistema de pedidos**
 
 ## Diagrama do projeto 
 
