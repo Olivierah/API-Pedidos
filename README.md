@@ -8,7 +8,7 @@
 
 ## Diagrama do projeto 
 
-![Preview-Screens](Diagram/api_diagram.svg)
+![Preview-Screens](Diagram/api_diagram.png)
 
 ## Why?
 
