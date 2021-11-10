@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="#">
-    <img align="center" width="450" src="Diagram/api_diagram.png" />
+    <img align="center" width="700" src="Diagram/api_diagram.png" />
   </a>
 </p>
 
